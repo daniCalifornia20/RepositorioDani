@@ -1,2 +1,3 @@
 # RepositorioDani
-Repositorio remoto para practicar
+Repositorio remoto para practicar.
+Primera alteración.
